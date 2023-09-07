@@ -1,2 +1,2 @@
-# acc-mars-project
+# Mars
 jQuery-focused school project.
